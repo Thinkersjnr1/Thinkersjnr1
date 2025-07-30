@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a dedicated cybersecurity professional with a passion 
 
 📧 Email: yeweunsewedde@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/danielyewenu
+🔗 LinkedIn: www.linkedin.com/in/daniel-yewenu-45a370250
 
 📍 Location: Lagos, Nigeria
 
