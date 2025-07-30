@@ -6,7 +6,7 @@
 
 Welcome to my GitHub! I'm a dedicated cybersecurity professional with a passion for securing digital infrastructures and advancing encryption technologies. My work focuses on vulnerability assessment, penetration testing, and developing quantum-resistant solutions to combat emerging cyber threats. I thrive on solving complex security challenges and contributing to innovative projects in the cybersecurity domain.
 
-📧 Email: yeweunsewedde@gmail.com
+📧 Email: yewenusewedo@gmail.com
 
 🔗 LinkedIn: www.linkedin.com/in/daniel-yewenu-45a370250
 
