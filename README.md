@@ -77,6 +77,8 @@ A Security Information and Event Management system built on the open-source Elas
 
 | Certification | Issuer | Date |
 |---|---|---|
+| Certified Ransomware Protection Officer | EU Cyber Academy | Dec 2025 |
+| AWS Cloud Practitioner | Amazon Web Services | Aug 2025 |
 | Cisco CyberOps Associate | Cisco Networking Academy | May 2025 |
 | Cisco Certified Ethical Hacker | Cisco | May 2025 |
 | Security Operations and Defense Analyst | Splunk | Sep 2023 |
